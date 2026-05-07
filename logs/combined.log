@@ -1,0 +1,334 @@
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-06 16:30:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-06 16:30:50"}
+{"level":"error","message":"❌ Failed to start server: querySrv ENOTFOUND _mongodb._tcp.cluster0.bvowtr8.mongodb.net","service":"disaster-alert-api","timestamp":"2026-05-06 16:30:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-06 16:31:33"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-06 16:31:33"}
+{"level":"error","message":"❌ Failed to start server: querySrv ENOTFOUND _mongodb._tcp.cluster0.bvowtr8.mongodb.net","service":"disaster-alert-api","timestamp":"2026-05-06 16:31:33"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:47"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:47"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:47"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:47"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:49"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:10:49"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:10:49"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:51"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:51"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:51"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:51"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:53"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:53"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:55"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:55"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:57"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:57"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Pub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis Sub Client Error","service":"disaster-alert-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 19:10:58"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:19:34"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:19:34"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:19:34"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:23:55"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:24:07"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:24:07"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:24:07"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:08"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:12"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:14"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:14"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:14"}
+{"ip":"::1","level":"info","message":"POST /api/auth/register","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:28:34"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:31:21"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:31:21"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:31:21"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:31:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:13"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:13"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:15"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:18"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:20"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:20"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:20"}
+{"ip":"::1","level":"info","message":"POST /api/auth/register","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:32:35"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:34"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:34"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:37"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:37"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:37"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:37"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:42"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 19:34:58"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:01"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:01"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:01"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:06"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:06"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:06"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:06"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:13"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:13"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:13"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:13"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:56"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:35:56"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:28"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:30"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:34"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:35"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:38"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:46"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:50"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:50"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:50"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:56"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:36:56"}
+{"ip":"::1","level":"info","message":"POST /api/auth/register","service":"disaster-alert-api","timestamp":"2026-05-07 19:37:45"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:37:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:37:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:37:47"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:42:48"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 19:42:58"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:05"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:08"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:08"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:08"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:14"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:43:14"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:51:29"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 19:51:39"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:42"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:47"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:47"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:47"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:51"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:51"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:51"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 19:52:51"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 19:58:07"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:33"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:37"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:37"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:37"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:43"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:45"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:10:55"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:13:22"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:13:22"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:14:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:14:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:14:14"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:14:34"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 20:38:00"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:05"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:28"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:28"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:28"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:49"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:49"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:49"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 20:40:50"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:54:48"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:54:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:54:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:54:53"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 20:55:13"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 20:57:52"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 20:57:57"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:01"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:01"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:01"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:17"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:18"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:18"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:18"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:19"}
+{"ip":"::1","level":"info","message":"POST /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 20:58:59"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 20:59:00"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:02:51"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:02:52"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:02:52"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:02:56"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:02:56"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:02:57"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:32"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:42"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:46"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:53"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:53"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:53"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:59"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:10:59"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:11:00"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:19:52"}
+{"level":"error","message":"❌ Failed to start server: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","service":"disaster-alert-api","timestamp":"2026-05-07 21:20:22"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:04"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:04"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:04"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:04"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:09"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:09"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:10"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:14"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:17"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:22"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:22"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:22"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:22"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:22"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:22"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:27"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:27"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:28"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:40"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:41"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:45"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:21:47"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:12"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:14"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:17"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:18"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:18"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:19"}
+{"ip":"::1","level":"info","message":"POST /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:25"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:22:26"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:00"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:10"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:13"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:39"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:39"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:39"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:43"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:44"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:44"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:44"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:46"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:53"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:31:56"}
+{"ip":"::1","level":"info","message":"POST /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:05"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:07"}
+{"ip":"::1","level":"info","message":"DELETE /api/contacts/69fcafbce77f478998972740","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:11"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:12"}
+{"ip":"::1","level":"info","message":"DELETE /api/contacts/69fcafbce77f478998972740","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:12"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:17"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:32:18"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:35:38"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 21:35:48"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:35:51"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:35:55"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:35:55"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:35:55"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:01"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:02"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:02"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:05"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:11"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:11"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:22"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:23"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:32"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:34"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:34"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:36:36"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:38:56"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:06"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:15"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:26"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:26"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:26"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:32"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:33"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:33"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:34"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:57"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:39:57"}
+{"ip":"::1","level":"info","message":"DELETE /api/contacts/69fcb77d836b8e0239caa85d","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:00"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:01"}
+{"ip":"::1","level":"info","message":"DELETE /api/contacts/69fcb5397e4f48cc165db1e0","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:02"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:03"}
+{"ip":"::1","level":"info","message":"POST /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:11"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:11"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:15"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:40:15"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:43:19"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:43:39"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:43:39"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:38"}
+{"ip":"::1","level":"info","message":"GET /api/auth/me","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:39"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:40"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:40"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:41"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:43"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:44"}
+{"level":"error","message":"Could not close connections in time, forcefully shutting down","service":"disaster-alert-api","timestamp":"2026-05-07 21:45:50"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:00"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:02"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:28"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:28"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:28"}
+{"level":"error","message":"❌ Failed to start server: Server selection timed out after 30000 ms","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:31"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:46:57"}
+{"level":"info","message":"✅ Socket.io using Redis adapter","service":"disaster-alert-api","timestamp":"2026-05-07 21:52:57"}
+{"level":"info","message":"🛡️  DISASTER ALERT SYSTEM - SERVER STARTED","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:00"}
+{"level":"info","message":"Server running on port 5000","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:00"}
+{"level":"info","message":"Demo Mode: ENABLED","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:00"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:08"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts/all","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:09"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:09"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:10"}
+{"ip":"::1","level":"info","message":"GET /api/contacts","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:10"}
+{"level":"info","message":"Received kill signal, shutting down gracefully.","service":"disaster-alert-api","timestamp":"2026-05-07 21:53:46"}

@@ -6,16 +6,22 @@ class WeatherService {
     this.baseUrl = 'https://api.openweathermap.org/data/2.5';
   }
 
-  // Check if API key is available
-  isConfigured() {
-    return this.apiKey && this.apiKey !== 'your_openweathermap_api_key';
+  // Check if ZIP code is Indian pincode (6 digits, 100000-999999)
+  isIndianPincode(zipCode) {
+    const num = parseInt(zipCode);
+    return zipCode.length === 6 && num >= 100000 && num <= 999999;
   }
 
-  // Get weather data by ZIP code
-  async getWeatherByZip(zipCode, countryCode = 'us') {
+  // Get weather data by ZIP code (auto-detects India vs US)
+  async getWeatherByZip(zipCode, countryCode = null) {
     if (!this.isConfigured()) {
       console.log('⚠️  OpenWeatherMap API key not configured, using mock data');
       return null;
+    }
+
+    // Auto-detect country: if 6-digit Indian pincode, use IN, else US
+    if (countryCode === null) {
+      countryCode = this.isIndianPincode(zipCode) ? 'IN' : 'us';
     }
 
     try {
@@ -53,9 +59,14 @@ class WeatherService {
     }
   }
 
-  // Helper function to handle Indian pincodes
-  formatPincode(pin) {
-    return `${pin},IN`;
+  // Helper function to format ZIP/pincode with country detection
+  formatZipWithCountry(zip) {
+    // If 6-digit Indian pincode
+    if (this.isIndianPincode(zip)) {
+      return `${zip},IN`;
+    }
+    // Default to US format
+    return `${zip},US`;
   }
 
   // Fetch precise location mapping using OpenWeather Geocoding API
@@ -66,7 +77,7 @@ class WeatherService {
       const geoUrl = `${this.baseUrl.replace('/data/2.5', '/geo/1.0')}/zip`;
       const response = await axios.get(geoUrl, {
         params: {
-          zip: this.formatPincode(zipCode),
+          zip: this.formatZipWithCountry(zipCode),
           appid: this.apiKey
         }
       });
@@ -74,7 +85,9 @@ class WeatherService {
       return {
         lat: response.data.lat,
         lon: response.data.lon,
-        city: response.data.name
+        city: response.data.name,
+        state: response.data.state || '',
+        country: response.data.country || ''
       };
     } catch (error) {
       console.error(`Geo API error for ZIP ${zipCode}:`, error.message);
