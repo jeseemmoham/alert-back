@@ -31,13 +31,19 @@ const contactsRoutes = require('./routes/contacts');
 // Initialize Express app
 const app = express();
 const server = http.createServer(app);
+// Render needs the server to bind to the provided PORT on 0.0.0.0
+
 
 // ─── CORS CONFIGURATION ──────────────────────────────────
 const allowedOrigins = [
+  // Local development
   'http://localhost:5173',
   'http://localhost:5174',
   'http://localhost:5175',
   'http://localhost:3000',
+  // Production (Vercel) handled via .vercel.app wildcard below
+  // Additional origins via CLIENT_URL env below
+
   ...(process.env.CLIENT_URL
     ? process.env.CLIENT_URL.split(',').map(o => o.trim())
     : [])
@@ -62,6 +68,19 @@ const corsOptions = {
     if (origin.includes('.vercel.app')) {
       return callback(null, true);
     }
+
+    // If CLIENT_URL is set, accept those origins too (production flexibility)
+    if (process.env.CLIENT_URL) {
+      const clientOrigins = process.env.CLIENT_URL.split(',').map(o => o.trim()).filter(Boolean);
+      if (clientOrigins.includes(origin)) {
+        return callback(null, true);
+      }
+    }
+
+
+    // ✅ Allow deployed frontend origin explicitly via CLIENT_URL
+    // (already included in allowedOrigins above)
+
 
     // ✅ Allow ngrok tunnels for testing
     if (origin.includes('ngrok') || origin.includes('ngrok.io')) {
@@ -213,6 +232,8 @@ app.use((err, req, res, next) => {
 
 // ─── Start Server ──────────────────────────────────────────
 const PORT = process.env.PORT || 5000;
+const HOST = process.env.HOST || '0.0.0.0';
+
 
 async function startServer() {
   try {
@@ -229,11 +250,17 @@ async function startServer() {
     await seedAlerts();
 
     // Demo mode
-    if (process.env.DEMO_MODE === 'true') {
+    // NOTE: Demo generation needs a working MongoDB connection.
+    // startDemoMode is also guarded internally, but we additionally skip demo if Mongo isn't configured.
+    if (process.env.DEMO_MODE === 'true' && process.env.MONGODB_URI) {
       startDemoMode(90000);
     }
 
-    server.listen(PORT, () => {
+
+
+    // Bind to all interfaces for Render to detect open port
+    server.listen(PORT, HOST, () => {
+
       logger.info('🛡️  DISASTER ALERT SYSTEM - SERVER STARTED');
       logger.info(`Server running on port ${PORT}`);
       logger.info(`Demo Mode: ${process.env.DEMO_MODE === 'true' ? 'ENABLED' : 'DISABLED'}`);

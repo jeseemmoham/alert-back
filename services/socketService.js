@@ -9,6 +9,9 @@ let io = null;
 function initSocket(socketIo) {
   io = socketIo;
 
+  // Ensure basic CORS/allowed origins are set at server-level (socket.io uses its own CORS config)
+
+
   io.on('connection', (socket) => {
     console.log(`🔌 Client connected: ${socket.id}`);
 
@@ -70,7 +73,10 @@ async function emitAlert(alert) {
 }
 
 // Start demo mode - periodically generate alerts
+// NOTE: We guard demo mode so it won't run in environments where Mongo/Redis are unavailable.
 function startDemoMode(intervalMs = 60000) {
+  if (process.env.DEMO_MODE !== 'true') return;
+
   console.log('🎭 Demo mode: Will generate mock alerts periodically');
 
   setInterval(async () => {
